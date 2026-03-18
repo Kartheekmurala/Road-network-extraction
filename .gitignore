@@ -1,0 +1,27 @@
+# Dataset folders — too large for GitHub
+Dataset-1/PS-RGB/
+Dataset-1/geojson_roads_speed/
+Dataset-1/processed/
+
+# Model checkpoints
+checkpoints_v3/
+checkpoints/
+
+# Pipeline outputs (generated files)
+pipeline_outputs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
